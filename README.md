@@ -1,10 +1,10 @@
 # Gabrielle 👋
 
-Investment Specialist and Environmental Analyst
+Carbon price modeller and researher 
 
 ## About Me
 
-I am an Investment Specialist and Environmental Analyst with experience in equity long and long/short strategies focused on Energy Transition, Ecosystem Restoration, EARTH, and Emerging Climate Solutions. My responsibilities have included staying abreast of and implementing responses to regulatory changes, raising the awareness profile of products, conducting thematic investment research, liaising with rating agencies and distributors, managing client relations, conducting ESG, Environmental & Impact analysis, leading social media and marketing efforts, presenting product range and public speaking, engaging on sustainability matters with investee companies, and onboarding investment mandates and new products.
+I am a carbon price modeller and researcher with experience in equity long and long/short strategies focused on Energy Transition, Ecosystem Restoration, EARTH, and Emerging Climate Solutions. My responsibilities have included staying abreast of and implementing responses to regulatory changes, raising the awareness profile of products, conducting thematic investment research, liaising with rating agencies and distributors, managing client relations, conducting ESG, Environmental & Impact analysis, leading social media and marketing efforts, presenting product range and public speaking, engaging on sustainability matters with investee companies, and onboarding investment mandates and new products.
 
 ## Education 🎓
 
@@ -14,11 +14,11 @@ After completing my undergraduate studies, I wanted to gain a more in-depth unde
 
 ## Skills 🤹‍♀️
 
+- Environmental modelling 📈
 - Thematic investment research 📊
 - ESG, Environmental & Impact analysis 🌱
 - Marketing 📱
 - Public speaking 🎤
-- Project management 📈
 - Sales and relationship management 💼
 - Sustainability consulting 🌿
 
